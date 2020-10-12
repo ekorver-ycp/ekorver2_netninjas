@@ -1,0 +1,42 @@
+/* p.error{
+  color: red;
+}
+p.success{
+  color: #4fdb4f;
+}
+p.success.feedback{
+  border: 1px dashed #4fdb4f;
+}
+#content{
+  background-color: #ebebeb;
+  padding: 20px;
+}*/
+/* div p{
+  color: purple;
+}*/
+/* a[href="https://www.poetryfoundation.org/poems/48860/the-raven"]{
+  background-color: #3dd13d;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+a[href="https://www.google.com"]{
+  color: white;
+  background-color: red;
+  border: 2px solid blue;
+}*/
+div{
+  color: lightcoral;
+  border: 1px solid grey;
+  margin: 40 px;
+  font-weight: bold;
+}
+div p{
+  border: inherit;
+  margin: inherit;
+  color: crimson;
+}
+p{
+  color: orange;
+}
